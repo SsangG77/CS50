@@ -24,4 +24,4 @@ string anser = get_string("What`s your name?\n");
 
 - 플레이스 홀더 입력: `printf("hello, %s\n", answer);`
 %s로 출력 문자열에서 표시를 하고 그 위치에 나타낼 실제 데이터를 두번째 매개변수로 입력한다.
-
+ㅅㄷㄴㅅ
